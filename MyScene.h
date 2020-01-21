@@ -14,7 +14,7 @@ class MyScene : public Scene
         virtual void init()
         {
             // Keep this call to the parent's version of init()
-	    FPS = 60.0;
+	    FPS = 24.0;
             Scene::init();
         }
 
